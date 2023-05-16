@@ -37,34 +37,35 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-      'we have the latest update with new world for you to try never mind',
+      'Nós temos a mais recente atualização com um novo mundo para você experimentar, não se preocupe.',
   },
   {
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-      'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      'Na última atualização, seus olhos estão estreitos, tornando o mundo mais realista do que nunca.',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'O lançamento do Metaverso deixa Elon Musk nervoso e preocupado.',
     subtitle:
-      'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      'Pois ele vislumbra tanto o seu enorme potencial como os possíveis desafios e impactos na sociedade. Agora, ele se empenha em encontrar soluções inovadoras e garantir que o Metaverso seja uma experiência segura e benéfica para todos.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 dicas para dominar facilmente a loucura do Metaverso',
     subtitle:
-      'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      'Dominar facilmente a loucura do Metaverso requer habilidade em navegar por infinitas realidades virtuais, desvendar mistérios ocultos e desafiar as leis da física digital, tudo enquanto mantém sua sanidade intacta. Essas sete dicas irão guiá-lo em sua jornada épica pelo universo virtual.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title:
+      'Com uma plataforma, você pode explorar virtualmente o mundo inteiro.',
     subtitle:
-      'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      'Com uma plataforma revolucionária, mergulhe em aventuras virtuais que transcendem fronteiras e explore um mundo inteiro de maravilhas sem sair do conforto do seu sofá. Descubra culturas, locais históricos e paisagens exóticas enquanto a realidade se dissolve diante dos seus olhos.',
   },
 ];
 
